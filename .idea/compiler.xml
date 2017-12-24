@@ -9,8 +9,11 @@
         <module name="springbootLearn" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="springbootLearn" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="springbootLearn" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="PREFER_TARGET_JDK_COMPILER" value="false" />
   </component>
 </project>

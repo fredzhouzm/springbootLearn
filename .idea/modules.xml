@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/springbootLearn.iml" filepath="$PROJECT_DIR$/springbootLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springbootLearn.iml" filepath="$PROJECT_DIR$/.idea/springbootLearn.iml" />
     </modules>
   </component>
 </project>

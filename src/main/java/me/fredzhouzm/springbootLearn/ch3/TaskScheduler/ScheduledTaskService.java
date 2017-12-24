@@ -23,7 +23,7 @@ public class ScheduledTaskService {
         System.out.println("每隔5秒执行一次：" + dateFormat.format(new Date()));
     }
 
-    @Scheduled(cron = "0 15 16 ? * *")
+    @Scheduled(cron = "0 4 16 ? * *")
     public void fixTimeExcution() {
         System.out.println("在指定时间 " + dateFormat.format(new Date()) + " 执行");
     }
